@@ -1,0 +1,6 @@
+*.gz
+*.csv
+*.badlines.csv
+*.badlinenumbers
+*.bak
+data
